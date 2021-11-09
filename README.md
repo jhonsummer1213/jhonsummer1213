@@ -1,3 +1,1 @@
-【1】恢复原来的www.winaps.ga模式，端口：443
-【2】用户名和密码和原来一样，不变。
-【协议】trojan
+原来的网址www.winaps.ga  后缀ga换成ml(字母)，即www.winaps.ml 临时用，待原网址www.winaps.ga 修复后通知。
